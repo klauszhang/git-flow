@@ -2,7 +2,7 @@
 
 ## Ordniary flow
 
-When everything works really good
+When everything works perfectly
 
 ### Clone a repository
 
