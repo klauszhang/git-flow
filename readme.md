@@ -93,3 +93,5 @@ This will allow you to pick the commit from other branches, useful to recover wo
 ### git log
 
 Useful to see what's the current status of work.
+
+The end
